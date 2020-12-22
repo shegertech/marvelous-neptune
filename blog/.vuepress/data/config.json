@@ -1,6 +1,6 @@
 {
     "title": "Casper Theme",
-    "description": "Ghosts default theme for ",
+    "description": "Ghosts default theme for new site",
     "base": "/",
     "themeConfig": {
         "cover": "/images/cover.jpg",
